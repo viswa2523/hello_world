@@ -3,6 +3,5 @@ public class HelloWorld {
     System.out.println("Hello, Happy Holi");
     System.out.println("Hello, Happy Long Weekend");
     System.out.println("Hello, Happy Long Weekend 1");
-    System.out.println("Hello, Happy Long Weekend 2");
     }
 }
